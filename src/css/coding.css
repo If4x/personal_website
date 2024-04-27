@@ -30,6 +30,11 @@ div.coding-page {
     }
 }
 
+p.content a {
+    color: #fffcf2ff;
+    text-decoration: underline;
+}
+
 @keyframes blink {
   0% {opacity: 1;}
   40% {opacity: 1;}
